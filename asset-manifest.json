@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/realsteel-store/static/css/main.a1a54e95.css",
-    "main.js": "/realsteel-store/static/js/main.9926820a.js",
-    "static/media/product-7.jpg": "/realsteel-store/static/media/product-7.329bea0f275ba843354d.jpg",
-    "static/media/steel.jpg": "/realsteel-store/static/media/steel.774f65821209cf84b1af.jpg",
-    "static/media/product-4.jpg": "/realsteel-store/static/media/product-4.1fc6bcaa6f049772c3af.jpg",
-    "static/media/product-6.jpg": "/realsteel-store/static/media/product-6.e41605024317ef1f504c.jpg",
-    "static/media/product-8.jpg": "/realsteel-store/static/media/product-8.7fac32399a699e7e8f63.jpg",
-    "static/media/product-1.jpg": "/realsteel-store/static/media/product-1.de0a3721b9d768c2ad59.jpg",
-    "static/media/product-9.jpg": "/realsteel-store/static/media/product-9.12b0419af78a15d8231a.jpg",
-    "static/media/product-2.jpg": "/realsteel-store/static/media/product-2.f5fcbd10ae78ca6079da.jpg",
-    "static/media/product-5.jpg": "/realsteel-store/static/media/product-5.4872d02484c50d057d96.jpg",
-    "static/media/slick.svg": "/realsteel-store/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/realsteel-store/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/realsteel-store/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/realsteel-store/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/realsteel-store/index.html",
-    "main.a1a54e95.css.map": "/realsteel-store/static/css/main.a1a54e95.css.map",
-    "main.9926820a.js.map": "/realsteel-store/static/js/main.9926820a.js.map"
+    "main.css": "./static/css/main.933ec009.css",
+    "main.js": "./static/js/main.748b3687.js",
+    "static/media/product-7.jpg": "./static/media/product-7.329bea0f275ba843354d.jpg",
+    "static/media/steel.jpg": "./static/media/steel.774f65821209cf84b1af.jpg",
+    "static/media/product-4.jpg": "./static/media/product-4.1fc6bcaa6f049772c3af.jpg",
+    "static/media/product-6.jpg": "./static/media/product-6.e41605024317ef1f504c.jpg",
+    "static/media/product-8.jpg": "./static/media/product-8.7fac32399a699e7e8f63.jpg",
+    "static/media/product-1.jpg": "./static/media/product-1.de0a3721b9d768c2ad59.jpg",
+    "static/media/product-9.jpg": "./static/media/product-9.12b0419af78a15d8231a.jpg",
+    "static/media/product-2.jpg": "./static/media/product-2.f5fcbd10ae78ca6079da.jpg",
+    "static/media/product-5.jpg": "./static/media/product-5.4872d02484c50d057d96.jpg",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.933ec009.css.map": "./static/css/main.933ec009.css.map",
+    "main.748b3687.js.map": "./static/js/main.748b3687.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1a54e95.css",
-    "static/js/main.9926820a.js"
+    "static/css/main.933ec009.css",
+    "static/js/main.748b3687.js"
   ]
 }
