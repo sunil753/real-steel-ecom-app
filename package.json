@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sunil753.github.io/realsteel-store",
   "name": "realsteel-ecom-app",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
