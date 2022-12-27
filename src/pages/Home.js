@@ -10,12 +10,14 @@ const Home = () => {
 
   const handleAddToCart = (item) => {
     dispatch(addToCart(item));
-    console.log(item);
   };
 
   const renderedItems = CardData.map((item) => {
     return (
-      <div className=" flex flex-col items-center gap-3 border-2 p-2">
+      <div
+        key={item.id}
+        className=" flex flex-col items-center gap-3 border-2 p-2"
+      >
         <img
           src={item.cardimg}
           className="rounded-md duration-200  product-img overflow-hidden"
