@@ -1,6 +1,6 @@
 {
   "name": "realsteel-ecom-app",
-  "homepage": "https://",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
